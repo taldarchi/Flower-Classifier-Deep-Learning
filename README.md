@@ -36,5 +36,6 @@ maximum number of training steps is set to 200, Early Stopping is applied (less 
 
 
 # How To:
-Download flowers.t7 (https://drive.google.com/open?id=0B08krT1KTfJMc2wtcDJWcElqR1E) and GoogLeNet_v2_nn (https://drive.google.com/open?id=0B08krT1KTfJMYjRhSW1pUkV1ZmM) and put it in the same folder as the file transfer_learning_project.lua and run it.
-Set NUM_CLASSES = [Number of flower types]
+Download flowers.t7 (https://drive.google.com/open?id=0B08krT1KTfJMc2wtcDJWcElqR1E) and GoogLeNet_v2_nn (https://drive.google.com/open?id=0B08krT1KTfJMYjRhSW1pUkV1ZmM) and put it in the same folder as the file transfer_learning_project.lua
+Set NUM_CLASSES = [Number of flower types] and run it in terminal.
+
